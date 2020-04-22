@@ -13,7 +13,11 @@ Sample Python code for the same method of connecting paths of birth-death pairs 
 
 [1] Popov K, Komianos J, Papoian GA (2016). MEDYAN: Mechanochemical Simulations of
 Contraction and Polarity Alignment in Actomyosin Networks. PLoS Comput Biol 12(4): e1004877. doi:10.1371/journal.pcbi.1004877
+
 [2] Fasy BT, Kim J, Lecci F, Maria C (2014a). Introduction to the R package TDA. arXiv preprint arXiv:14111830
+
 [3] Maria C, Boissonnat JD, Glisse M, Yvinec M (2014). The GUDHI library: Simplicial  complexes and persistent homology. In: International Congress on Mathematical Software, Springer, pp 167–174
+
 [4] Tralie C, Saul N, Bar-On R. Ripser.py (2018): A lean persistent homology library for python. Journal of Open Source Software. 2018 Sep 13;3(29):925. Software available at https://github.com/scikit-tda/Ripser.py
+
 [5] Bauer U. Ripser (2014). A lean C++ code for the computation of Vietoris–Rips persistence barcodes. Software available at https://github.com/Ripser/ripser 
